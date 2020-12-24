@@ -8,7 +8,7 @@ Welcome! You've found yourself looking at Gorbot, my personalized Discord bot Se
 
 Currently, these are the following commads Gorbot is capabile of:
 
-- [x] .drink or .cocktail - Provides you taste beverage, along with its ingredients and a sample picture
+- [x] .drink or .cocktail - Provides you tasty beverage, along with its ingredients and a sample picture
 - [x] .pin - When replying to a message with .pin, Gorbot will post an embed of the message in the Pins text channel.
 
 ### What Do You Plan for Him to Do?
@@ -30,3 +30,9 @@ Sure, by all means! Gorbot is still in the very early stages of development, how
 ## I Want to Help Out! What Can I Do?
 
 Don't hesitate to reach out to me if you're looking to collaborate!
+
+Email:      keeth.spindler@gmail.com
+
+Github:     [KeethSpindler](https://www.github.com/KeethSpindler)
+
+Linkedin:   https://www.linkedin.com/in/keeth-spindler
